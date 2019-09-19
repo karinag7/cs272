@@ -1,0 +1,14 @@
+For Welcome.java 
+Previous Results: 
+Welcome to Java
+
+After adding the System.currentTimeMillis(); : 
+Welcome to Java
+1566937900679 
+
+For addition.java
+Previous Results: Summation for number 10 is: 55
+
+Variable set to 20: Summation for number 20 is: 210
+
+Line 14 Changed: Summation for number 10 is: 1023
